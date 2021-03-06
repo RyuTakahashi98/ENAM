@@ -1,26 +1,22 @@
-Proton Mass,1.672 621 923 695 ᴇ-27kg
-Proton Magnetic Moment,
-Proton Gyromagnetic Ratio,
-Proton G-Factor,
-Proton Compton Wavelenght,
-
-Electron Mass,9.109 383 701 528 ᴇ-31kg
-Electron Magnetic Moment,
-Electron Gyromagnetic Ratio,
-Electron G-Factor,
-Electron Anomalous Moment,
-
-Neutron Mass,
-Neutron Magnetic Moment,
-Neutron Gyromagnetic Ratio,
-Neutron G-Factor,
-Neutron Compton Wavelenght,
-
-Muon Mass,
-Muon Magnetic Moment,
-Muon G-Factor,
-Muon Compton Wavelenght,
-Muon Anomalous Moment,
-
-Tau Mass,
-Tau Compton Wavelenght,
+Proton Mass,2
+Proton Magnetic Moment,3
+Proton Gyromagnetic Ratio,4
+Proton G-Factor,4
+Proton Compton Wavelenght,5
+Electron Mass,5
+Electron Magnetic Moment,444
+Electron Gyromagnetic Ratio,444
+Electron G-Factor,4444
+Electron Anomalous Moment,55454
+Neutron Mass,45454
+Neutron Magnetic Moment,545454
+Neutron Gyromagnetic Ratio,54545
+Neutron G-Factor,45454
+Neutron Compton Wavelenght,54544
+Muon Mass,45454
+Muon Magnetic Moment,45
+Muon G-Factor,436
+Muon Compton Wavelenght,546
+Muon Anomalous Moment,7676
+Tau Mass,76895
+Tau Compton Wavelenght,75678
