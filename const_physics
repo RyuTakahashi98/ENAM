@@ -12,7 +12,7 @@ Fermi Constant,
 Weinberg Angle,
 Thomson Cross Section,
 
-Light Speed, 73737737, Gravitational, 7277373, Vacuum Impedance, 5666, Vacuum Permittivity, 7477363, Vacuum Permeability, 6276363
+Light Speed, 73737737, Gravitational, 7277373, Vacuum Impedance, 5666, Vacuum Electric Permittivity, 7477363, Vacuum Magnetic Permeability, 6276363
 Planck Constant, 55, Planck Reduced, 76, Planck Time, 28828, Planck Lenght, 6474746, Planck Mass, 53736, Planck Temperature, 72726
 
 Elemental Charge,
@@ -36,11 +36,8 @@ Molar Gas,
 Radiation Constant #1,
 Radiation Constant #2,
 Stefan Constant,
-Electric Constant,
-Magnetic Constant,
 Coulumb Constant,
 
-Earth Gravity Acceleration,
-Earth Atmospheric Pressure,
+Earth Gravity Acceleration, 78778, Earth Atmospheric Pressure, 686777
 
 Celsius Absolute Zero,
